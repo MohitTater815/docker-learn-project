@@ -1,0 +1,30 @@
+{
+  "Phase 1: Docker Fundamentals": {
+    "What is Docker & Why Use It?": false,
+    "Basic Docker Concepts": false,
+    "Core Docker Commands": false,
+    "Writing Dockerfiles": false
+  },
+  "Phase 2: Intermediate Usage": {
+    "Volumes & Bind Mounts": false,
+    "Networking in Docker": false,
+    "Multi-Stage Builds": false,
+    ".dockerignore File": false
+  },
+  "Phase 3: Docker Compose": {
+    "Why Docker Compose": false,
+    "Compose YAML Configuration": false,
+    "Useful Commands": false
+  },
+  "Phase 4: Advanced Topics": {
+    "Docker Security": false,
+    "CI/CD Integration": false,
+    "Docker Swarm Basics": false,
+    "Monitoring Docker": false
+  },
+  "Hands-on Projects": {
+    "Node.js + MongoDB with Compose": false,
+    "Containerize legacy app": false,
+    "Microservice stack": false
+  }
+}
