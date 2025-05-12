@@ -25,6 +25,7 @@
   "Hands-on Projects": {
     "Node.js + MongoDB with Compose": false,
     "Containerize legacy app": false,
-    "Microservice stack": false
+    "Microservice stack": false,
+    "test_auto_deploy": false
   }
 }
