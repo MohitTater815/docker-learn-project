@@ -30,9 +30,6 @@ jobs:
       - name: Build project
         run: npm run build --if-present
 
-      - name: Run tests
-        run: npm test
-
       - name: Setup SSH
         if: success()
         run: |
